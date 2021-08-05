@@ -8,4 +8,4 @@
 Tmohbaskan/Tmohbaskan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-buralarda daha çok yeniyim birşeyler öğrenmek kendime birşeyler katmak istiyorum
+buralarda daha yeni yeniyim kendime birşeyler katmak istiyorum
